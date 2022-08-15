@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DevOps and Java**
 
-- 💬 Ask me about **C language**
+- 💬 Ask me about **CS50 **
 
 - 📫 How to reach me **mohdkamaal2019@gmail.com**
 
