@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohd Kamaal</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center"> developer </h3>
 
-- 🔭 I’m currently looking for **Open source project**
+- 🌱 I’m currently learning **DevOps and Backend dev**
 
-- 🌱 I’m currently learning **DevOps and Java**
-
-- 💬 Ask me about **CS50 **
+- 💬 Ask me about **Cloud**
 
 - 📫 How to reach me **mohdkamaal2019@gmail.com**
 
-- ⚡ Fun fact **Curiosity gives me dopamine that's why I am here**
+- ⚡ Fun fact **Blue pill is good**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
