@@ -33,12 +33,13 @@ Hello! I'm Mohd Kamaal, a 3rd-year student at Pt. L.R. Institute of Technology. 
   <!-- LinkedIn icon -->
   <a href="https://www.linkedin.com/in/mohd-kamaal-120959227/" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://path_to_your_dark_image.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn Icon" />
     </picture>
   </a>
 </p>
+
 
 ### Badges
 
