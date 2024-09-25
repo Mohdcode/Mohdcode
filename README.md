@@ -4,12 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer | Cloud enthusiast | α-MLSA | Blogger
 -----------------------------------------------
 
-Hello! I'm Mohd Kamaal, a 3rd-year student at Pt. L.R. Institute of Technology. I'm passionate about cloud-native applications and backend development. My goal is to become an expert in these fields and lead projects that empower others to achieve their tech aspirations. Proud member of MLSA. Let's connect and collaborate! In my journey, I aim to leverage cloud technologies to build scalable and efficient solutions that shape the future of technology.
-
-* 🌍  I'm based in Faridabad
-* ✉️  You can contact me at [mohdkamaal2019@gmail.com](mailto:mohdkamaal2019@gmail.com )
-* 🧠  I'm learning AI/ML
-* 🤝  I'm open to collaborating on interesting projects
+Hello! I'm Mohd Kamaal
 
 ### Skills
 
